@@ -34,7 +34,7 @@
     "@ledgerhq/logs": "^6.10.0",
     "lodash": "^4.17.21",
     "node-hid": "2.1.1",
-    "usb-detection": "^4.13.0"
+    "usb-detection": "^4.14.2"
   },
   "scripts": {
     "clean": "bash ../../script/clean.sh",

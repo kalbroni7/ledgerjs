@@ -29,7 +29,7 @@
   "dependencies": {
     "@ledgerhq/hw-transport": "^6.27.1",
     "base32.js": "^0.1.0",
-    "sha.js": "^2.3.6",
+    "sha.js": "^2.4.12",
     "tweetnacl": "^1.0.3"
   },
   "scripts": {
